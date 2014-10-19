@@ -1,3 +1,20 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://androcetus.com"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "Androcetus"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+builddrafts = false
+canonifyurls = true
+
+[indexes]
+category = "categories"
+
+[taxonomies]
+series = "series"
+category = "categories"
+
+[permalinks]
+post = "/:section/:slug"

@@ -13,7 +13,7 @@ rm -rf *
 
 cd $deploy_from_root
 #for some reason without the --theme the whole site doesn't build
-hugo --theme=hyde
+hugo --theme=liquorice
 
 cd $deploy_to
 

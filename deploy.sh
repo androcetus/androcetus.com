@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -o errexit #abort if any command fails
 
-root=~/src/cs
+root=~/src/ac
 deploy_to=$root/androcetus.github.io 
 deploy_from_root=$root/androcetus.com
 deploy_from=$root/androcetus.com/public

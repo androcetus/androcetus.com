@@ -6,7 +6,6 @@ slug = ""
 title = "about androcetus"
 
 +++
-# about androcetus
 
 Androcetus is a scratchpad of thoughts about topics such as work, success, relationships & life viewed through a lense of masculinity and where possible, femininity.
 I'll make the same caveat that [David Deida](http://www.amazon.com/Way-Superior-Man-Spiritual-Challenges-ebook/dp/B004A8ZWM4) makes which is that 
